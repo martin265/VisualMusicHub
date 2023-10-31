@@ -1,0 +1,10 @@
+pip install soundfile
+pip install sounddevice
+pip install pyaudio
+pip install flet
+pip install mysql connector
+pip install pyautogui
+pip install pydub
+pip install python
+pip install pillow
+pip install pygam
